@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "name": "Revan",
+            "country": "Armenia",
+            "region": "Yerevan",
+            "lat": "40.181",
+            "lon": "44.514",
+            "timezone_id": "Asia/Yerevan",
+            "localtime": "2022-09-14 16:10",
+            "localtime_epoch": 1663171800,
+            "utc_offset": "4.0"
+        },
+        {
+            "observation_time": "12:10 PM",
+            "temperature": 30,
+            "weather_code": 116
+        },
+        {
+            "wind_speed": 9,
+            "wind_degree": 270,
+            "wind_dir": "W",
+            "pressure": 1009,
+            "precip": 0,
+            "humidity": 17,
+            "cloudcover": 25,
+            "feelslike": 28,
+            "uv_index": 8,
+            "visibility": 10,
+            "is_day": "yes"
+        }
+
+    ]
+
+
+
+
+
+
+
+
+
+
+}

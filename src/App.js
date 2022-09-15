@@ -1,7 +1,8 @@
 
 // import { useEffect, useState } from "react";
+// import Apis from "./components/Apis";
 import  Carousela from "./components/Carousel";
-import Fetching from "./components/Fetching";
+// import Fetching from "./components/Fetching";
 
 const db = {
   "observation_time": "12:10 PM",
@@ -27,19 +28,11 @@ const db = {
   }
 
 function App() {
-//   const [data, setData] = useState;
-
-//   useEffect (() => {
-//     fetch('./db.json')
-//         .then(res => res.json())
-//         .then(res => setData(res.data))
-//         .catch(e => console.log('error', e))
-// },[]) 
-
   return (
     <>
       <Carousela data = {db}/>
-      <Fetching  data = {db}/>
+      {/* <Fetching  data = {db}/> */}
+      {/* <Apis /> */}
     </>
     
   );

@@ -4,4 +4,6 @@
 }
 .item{
     display: flex;
+    position: absolute;
+    color: blue;
 }
